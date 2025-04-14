@@ -1,8 +1,8 @@
 import telebot
 import time
 
-# Token khi tạo bot trong tele
-bot_token = "8133774953:AAGlyO9zBwbtNQFgfQ8N0vwr-QxAyh1PhdE"
+# Token khi tạo bot trong @BotFather
+bot_token = "abcdxyz:123123123"
 chat_id = "-4781733038"
 
 # Khởi tạo bot
